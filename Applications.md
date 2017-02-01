@@ -1,6 +1,6 @@
 
 
-- Smart power plugs 
+- [Smart power plugs](#smart-power-plugs)
 - Home automation  
 - Mesh network  
 - Industrial wireless control 
@@ -13,4 +13,7 @@
 - Wi-Fi position system beacons 
  
  
+ 
+## Smart power plugs
+
  
